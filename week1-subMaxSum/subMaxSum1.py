@@ -8,6 +8,6 @@ def maxSubSum1(myvector):
                 thisSum=thisSum+myarray[k]
                 if (thisSum>maxSum):
                     maxSum=thisSum
-                    return maxSum
-                myarray=[4, -3, 5, -2, -1, 2, 6,-2]
-                print(maxSubSum1(myarray))
+    return maxSum
+myarray=[4, -3, 5, -2, -1, 2, 6, -2]
+print(maxSubSum1(myarray))
