@@ -1,4 +1,4 @@
-/* Karmaþýklýðý O(logn) olan üs alma kodu*/
+/* KarmaÅŸÄ±klÄ±ÄŸÄ± O(logn) olan Ã¼s alma kodu*/
 #include <iostream>
 
 using namespace std;
