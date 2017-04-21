@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492793708 source:c:\users\bm\desktop\dizi_islemleri\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
